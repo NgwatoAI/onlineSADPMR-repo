@@ -1,3 +1,5 @@
 #OnlineSADPMR APP
 
-Description
+Online License Application
+
+Online Register Capturing
